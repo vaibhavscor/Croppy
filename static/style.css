@@ -1,0 +1,8 @@
+.not-visible {
+    display: none;
+}
+body{
+    background-color: rgb(31, 139, 233);
+    font-size: large;
+    color: white;
+}
